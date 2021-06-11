@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Léa Bays
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,17 +10,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Haute école d'ingénierie et d'architecture de Fribourg
+  url: https://www.heia-fr.ch
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Networking
+- IT Security
+- Project Management
 
 # Education to show in About widget
 education:
@@ -59,19 +59,19 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "bays.lea@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Growing up with my father and brother being IT engineers, I've always been interested by new technology and I've always been up to date with it. When I was 19, I started my apprenticeship in business computing in Fribourd, Switzerland. I graduated after three years, and my final work was focused on network security and basic computer et smartphone attacks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently pursuing a Bachelor's degree in telecommunication engineering. Next year, I am going to work on two semester projects and my Bachelor projects. For now, I don't know what theme they will cover, but I hope it is going to be either netowrking or IT security.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
