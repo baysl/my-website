@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Example Project TEST HO
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
