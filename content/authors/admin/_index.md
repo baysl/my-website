@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "bays.lea@gmail.com"
@@ -70,8 +70,8 @@ social:
 highlight_name: false
 ---
 
-Growing up with my father and brother being IT engineers, I've always been interested by new technology and I've always been up to date with it. When I was 19, I started my apprenticeship in business computing in Fribourd, Switzerland. I graduated after three years, and my final work was focused on network security and basic computer et smartphone attacks.
+Growing up with my father and brother being IT engineers, I've always been interested by new technology and been up to date with it. When I was 19, I started my apprenticeship in business computing in Fribourg, Switzerland. I graduated after three years, and my final work was focused on network security and basic attacks on computer and smartphone.
 
 I am currently pursuing a Bachelor's degree in telecommunication engineering. Next year, I am going to work on two semester projects and my Bachelor projects. For now, I don't know what theme they will cover, but I hope it is going to be either netowrking or IT security.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
