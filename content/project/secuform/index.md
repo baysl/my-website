@@ -14,7 +14,7 @@ summary: >-
   I will talk about this projet more in details later. This website is still under construction.
 draft: false
 featured: false
-external_link: .
+external_link: baysl.ch/project/secuform
 image:
   filename: g.png
   focal_point: Smart
