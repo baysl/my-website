@@ -16,14 +16,9 @@ draft: false
 featured: false
 external_link: .
 image:
-  filename: copmuter-attack.png
+  filename: g.png
   focal_point: Smart
   preview_only: false
+  caption: Photo by Brooke Cagle on Unsplash
 ---
-This was my project at the end of my apprenticeship.
-
-The first part of it was to analyse the history of computer viruses and attacks. Then, I created a virtual network on VMWare. I had two main PCs : a Windows 10 one, which was the "victim", and a Kali Linux one, which was the "attacker". 
-
-I ran a few tests and attacks to prove the points made during the analysis.
-
-I will talk about this projet more in details later. This website is still under construction.
+This was my project at the end of my apprenticeship
